@@ -1,0 +1,28 @@
+{
+  "name": "lint-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gezabenko/lint-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gezabenko/lint-test/issues"
+  },
+  "homepage": "https://github.com/gezabenko/lint-test#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^17.0.3",
+    "@commitlint/config-conventional": "^17.0.3",
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/github": "^8.0.5",
+    "mega-linter-runner": "^6.1.0"
+  }
+}
